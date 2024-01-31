@@ -19,7 +19,7 @@ title: Hoopmad # the main title
 tagline: I like to code and hoop. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Featuring various topics about IT world including but not limited to, Java, Python, Data Science and Artificial Intelligence.
+  Exploring various topics about IT world including but not limited to, Java, Python, Data Science and Artificial Intelligence.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -73,7 +73,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/profile.jpg
+avatar: assets/img/profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
