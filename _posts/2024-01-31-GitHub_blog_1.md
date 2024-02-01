@@ -6,6 +6,8 @@ tags: [blog, github, ruby, jekyll, chirpy]
 img_path: /assets/img/blog_screenshots/
 ---
 
+*👋안녕하세요, 훕마드입니다.*
+
 ## 왜 깃허브 블로그인가
 **깃허브**(GitHub)는 소프트웨어 프로젝트를 함께 작업하고 공유하는 플랫폼입니다. 개발 분야를 공부했거나 개발자와 협업한 경험이 있다면 들어본 기억이 있을거에요. 깃허브는 코드를 공유하는 것 외에도 **깃허브 페이지**(GitHub Pages)를 통해 웹사이트를 호스팅 기능을 제공합니다. 최근엔 이걸 활용해 기술 블로그를 운영하는 사용자도 많이 있습니다. 물론 네이버, 티스토리, 벨로그 등 다양한 선택지가 존재하지만 특별히 개발자라면 깃허브로 시작하는 걸 추천합니다.
 
@@ -17,7 +19,7 @@ img_path: /assets/img/blog_screenshots/
 깃허브 저장소에 푸시(push)하는 방식으로 포스팅하므로 커밋이 필수입니다. 글만 올려도 프로필을 초록초록하게 만들 수 있습니다.
 
 ### ✅장점 3_ 에러와 함께 성장한다.
-이런저런 수정을 하다 보면 에러를 마주할 수밖에 없습니다. 이 글을 쓰는 이유도 전에 만들었던 블로그 업데이트가 어려워 다시 수정하고 싶어서입니다. 가끔 블로그를 하는지 프로그래밍하는지 헷갈릴 수 있지만 미래에 성장할 자신을 상상하면서 같이 시도해 보면 좋겠습니다.
+이런저런 수정을 하다 보면 에러를 마주할 수밖에 없습니다. 이 글을 쓰는 이유도 전에 만들었던 블로그 업데이트가 어려워 다시 배우며 수정하고 싶어서입니다. 가끔 블로그를 하는지 프로그래밍하는지 헷갈릴 수 있지만 미래에 성장할 자신을 상상하면서 같이 시도해 보면 좋겠습니다.
 
 **✨아래는 완성된 블로그의 예시입니다.**
 ![example_1](example_1.png)
@@ -79,7 +81,7 @@ bundler -v
 ```
 
 ## GitHub Fork로 로컬 저장소 생성
-> 이 방법으로 진행하면 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. 곧 해결 방법을 업데이트 할게요.
+> 이 방법으로 진행하면 푸시를 해도 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. [기여가 프로필에 표시되지 않는 이유](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted)를 확인해보면 fork 로 생성된 저장소는 pull request를 통해 부모 저장소에 merge가 완료되어야 한다네요.
 
 Jekyll 블로그는 다양한 테마가 존재합니다. 그중 심플하면서도 예쁜 "Chirpy" 테마를 사용할 거에요. 모든 설명은 해당 테마의 [공식 문서](https://chirpy.cotes.page/posts/getting-started/)를 기반으로 했습니다.
 
@@ -105,6 +107,6 @@ _주소 복사_
 ```bash
 git clone https://github.com/USERNAME/USERNAME.github.io.git
 ```
-​
-**깃허브에 블로그를 올리기 위한 준비와 로컬 저장소를 clone 하는 것까지 진행해 봤습니다.
+
+**깃허브에 블로그를 올리기 위한 준비와 로컬 저장소를 생성하는 것까지 진행해 봤습니다.
 다음 포스팅에서 초기 설정 후 테마 적용으로 돌아올게요!**
