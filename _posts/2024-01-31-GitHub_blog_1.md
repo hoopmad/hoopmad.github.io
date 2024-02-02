@@ -81,7 +81,7 @@ bundler -v
 ```
 
 ## GitHub Fork로 로컬 저장소 생성
-> 이 방법으로 진행하면 푸시를 해도 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. [기여가 프로필에 표시되지 않는 이유](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted)를 확인해보면 fork 로 생성된 저장소는 pull request를 통해 부모 저장소에 merge가 완료되어야 한다네요.
+> 이 방법으로 진행하면 푸시를 해도 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. [기여가 프로필에 표시되지 않는 이유](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted)를 확인해보면 fork 로 생성된 저장소는 pull request를 통해 부모 저장소에 merge가 완료되어야 한다네요. 해당 내용은 따로 다루도록 하겠습니다.
 
 Jekyll 블로그는 다양한 테마가 존재합니다. 그중 심플하면서도 예쁜 "Chirpy" 테마를 사용할 거에요. 모든 설명은 해당 테마의 [공식 문서](https://chirpy.cotes.page/posts/getting-started/)를 기반으로 했습니다.
 
