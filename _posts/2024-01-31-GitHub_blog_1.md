@@ -1,12 +1,12 @@
 ---
 title: GitHub Pages로 Jekyll 블로그 만들기.part1
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-01-31 14:00:00 +0900
 categories: [Blog, Git, Programming]
 tags: [blog, github, ruby, jekyll, chirpy] 
 img_path: /assets/img/blog_screenshots/
 ---
 
-*👋안녕하세요, 훕마드입니다.*
+**👋안녕하세요, 훕마드입니다.**
 
 ## 왜 깃허브 블로그인가
 **깃허브**(GitHub)는 소프트웨어 프로젝트를 함께 작업하고 공유하는 플랫폼입니다. 개발 분야를 공부했거나 개발자와 협업한 경험이 있다면 들어본 기억이 있을거에요. 깃허브는 코드를 공유하는 것 외에도 **깃허브 페이지**(GitHub Pages)를 통해 웹사이트를 호스팅 기능을 제공합니다. 최근엔 이걸 활용해 기술 블로그를 운영하는 사용자도 많이 있습니다. 물론 네이버, 티스토리, 벨로그 등 다양한 선택지가 존재하지만 특별히 개발자라면 깃허브로 시작하는 걸 추천합니다.
