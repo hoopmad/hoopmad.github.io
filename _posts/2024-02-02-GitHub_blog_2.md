@@ -56,7 +56,7 @@ bundle exec jekyll serve
 ```
 
 ## 페이지 배포
-👏이제 마지막 단계입니다. [공식 Wiki](https://chirpy.cotes.page/posts/getting-started/)에서는 Pages 설정을 Github Actions로 변경 후 푸시하라고 나오는데 기본 설정인 **Deploy from a branch**에서 진행해야 오류 없이 배포되네요.
+👏이제 마지막 단계입니다. [공식 Wiki](https://chirpy.cotes.page/posts/getting-started/){:target="_blank"}에서는 Pages 설정을 Github Actions로 변경 후 푸시하라고 나오는데 기본 설정인 **Deploy from a branch**에서 진행해야 오류 없이 배포되네요.
 
 터미널에서 변경 사항을 커밋하고 푸시를 해볼게요.
 

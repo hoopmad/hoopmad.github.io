@@ -81,11 +81,11 @@ bundler -v
 ```
 
 ## GitHub Fork로 로컬 저장소 생성
-> 이 방법으로 진행하면 푸시를 해도 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. [기여가 프로필에 표시되지 않는 이유](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted)를 확인해보면 fork 로 생성된 저장소는 pull request를 통해 부모 저장소에 merge가 완료되어야 한다네요. 해당 내용은 따로 다루도록 하겠습니다.
+> 이 방법으로 진행하면 푸시를 해도 깃허브 프로필에 커밋이 반영되지 않는 이슈가 있습니다. [기여가 프로필에 표시되지 않는 이유](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted){:target="_blank"}를 확인해보면 fork 로 생성된 저장소는 pull request를 통해 부모 저장소에 merge가 완료되어야 한다네요. 해당 내용은 따로 다루도록 하겠습니다.
 
-Jekyll 블로그는 다양한 테마가 존재합니다. 그중 심플하면서도 예쁜 "Chirpy" 테마를 사용할 거에요. 모든 설명은 해당 테마의 [공식 문서](https://chirpy.cotes.page/posts/getting-started/)를 기반으로 했습니다.
+Jekyll 블로그는 다양한 테마가 존재합니다. 그중 심플하면서도 예쁜 "Chirpy" 테마를 사용할 거에요. 모든 설명은 해당 테마의 [공식 문서](https://chirpy.cotes.page/posts/getting-started/){:target="_blank"}를 기반으로 했습니다.
 
-링크를 열면 Installation 파트에 사이트를 설정하는 두 가지 방법이 나옵니다. Chirpy Starter는 빠른 적용이 가능한데 커스텀에는 제약이 있어요. Fork를 하면 업그레이드가 어렵지만 수정이 자유롭습니다. 지난 블로그는 Starter를 사용했는데 나중에 스타일을 수정할 수도 있기 때문에 Fork로 저장소(Repository)를 만들겠습니다. [GitHub Fork 링크](https://github.com/cotes2020/jekyll-theme-chirpy/fork)로 접속해 주세요.
+링크를 열면 Installation 파트에 사이트를 설정하는 두 가지 방법이 나옵니다. Chirpy Starter는 빠른 적용이 가능한데 커스텀에는 제약이 있어요. Fork를 하면 업그레이드가 어렵지만 수정이 자유롭습니다. 지난 블로그는 Starter를 사용했는데 나중에 스타일을 수정할 수도 있기 때문에 Fork로 저장소(Repository)를 만들겠습니다. [GitHub Fork 링크](https://github.com/cotes2020/jekyll-theme-chirpy/fork){:target="_blank"}로 접속해 주세요.
 
 Fork 하는 페이지에서 USERNAME 부분에 자신의 깃허브 사용자명을 넣으면 됩니다. Description은 블로그에 대한 설명을 자유롭게 작성하거나 일단은 빈칸으로 남겨도 좋아요.
 
