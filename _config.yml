@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Hoopmad # the main title
 
-tagline: I like to code and hoop. # it will display as the sub-title
+tagline: getting buckets and strings # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Exploring various topics about IT world including but not limited to, Java, Python, Data Science and Artificial Intelligence.
